@@ -2,49 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Power BI End-to-End Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      max-width: 900px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2e6c80;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 10px;
-      border-left: 5px solid #ccc;
-      overflow-x: auto;
-    }
-    code {
-      background: #eee;
-      padding: 2px 4px;
-      font-family: Consolas, monospace;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    .badge {
-      background-color: #0366d6;
-      color: white;
-      padding: 3px 8px;
-      font-size: 12px;
-      border-radius: 4px;
-      margin-right: 5px;
-    }
-  </style>
+
+
 </head>
 <body>
 
